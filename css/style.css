@@ -1,0 +1,76 @@
+.doc {
+    list-style-type:none;
+    float:right;
+}
+.l1{
+    color:rgb(0, 225, 255);
+}
+p1{
+ width: 20px;   
+}
+li{
+    display: inline-block;
+padding:40px
+}
+.hero{
+    background: url("../images/ezgif-2-b583d0ce77.png") no-repeat center center/cover;
+    height: 50vh;
+    position:relative;
+
+}
+h1{
+    color:rgb(22, 117, 196);
+}
+.hero-content{
+width: 50%;
+float:right;
+position:absolute;
+top:50%;
+right:0;
+transform: translateY(-50%);
+}
+.button4{
+background-color: blue;
+}
+.button3{
+    background-color: aqua;
+}
+.Book{
+    padding: 10px;
+}
+.promotion1{
+float:left;
+box-shadow:0 0 5px;
+margin:25px;
+padding:30;
+width:17%
+}
+.p1{
+    color:rgb(0, 102, 255);
+}
+.bt{
+    float:left;
+}
+.bravoo{
+    float:left;
+     width: 50%;
+     background: url("../images/medical-clinic.jpg") no-repeat center center/cover;
+     height: 500px;
+}
+.narrow{
+    width: 50%;
+    float: right;
+
+}
+.g{
+    background-color:blue;
+    margin:30px;
+    padding:10px;
+    color:white;
+}
+.testimonial-avatars{
+width:fit-content;
+margin:0 auto;
+}
+.clearfix{
+    clear: both;}
