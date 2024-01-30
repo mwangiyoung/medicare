@@ -156,17 +156,11 @@ h1 {
   padding: 20px;
   width: 150px;
   margin: 20px;
-  display: block;
-}
-.words {
-}
-.pa {
-  text-align: center;
-  font-size: medium;
-}
+  display: block;}
+
 .apps {
   padding: 20px;
-  margin: 30px;
+  margin-inline-start: 20px;
 }
 
 /* Footer styles */
@@ -185,4 +179,7 @@ footer{
 }
 .pa{
   color:#496bf2;
+}
+.pd{
+  font-size: x-large;
 }
