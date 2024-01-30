@@ -4,6 +4,9 @@
   box-sizing: border-box;
   font-family: "Josefin Sans", sans-serif;
 }
+ul{
+  list-style-type: none;
+}
 .doc {
   list-style-type: none;
   float: right;
@@ -14,7 +17,7 @@
 p1 {
   width: 20px;
 }
-li {
+nav ul li {
   display: inline-block;
   padding: 40px;
 }
@@ -26,6 +29,10 @@ li {
 }
 h1 {
   color: rgb(22, 117, 196);
+}
+.homepage {
+  list-style-type: none;
+  float: left;
 }
 .hero-content {
   width: 50%;
@@ -66,12 +73,14 @@ h1 {
 .narrow {
   width: 50%;
   float: right;
+  font-size: 20px;
 }
 .g {
-  background-color: blue;
-  margin: 30px;
-  padding: 10px;
+  background-color:#496bf2;
+  margin: 20px;
+  padding: 20px;
   color: white;
+  width:20%;
 }
 .testimonial-avatars {
   width: 0 auto;
@@ -104,6 +113,14 @@ h1 {
   display: inline-block;
   border-radius: 50px;
 }
+.green {
+  background-color: #496bf2;
+  margin: 20px;
+}
+.blue {
+  background-color: aqua;
+  margin: 20px;
+}
 
 .span1 {
   color: aqua;
@@ -127,18 +144,45 @@ h1 {
   height: 80vh;
   background: url("../images/ezgif-2-81a50240fb.png") no-repeat center
     center/cover;
-  
 }
-.forms input{
+.forms input {
   padding: 35px 40px;
-  width:450px;
-  margin:20px;
+  width: 450px;
+  margin: 20px;
   box-sizing: border-box;
 }
-.blu{
-   background-color:#496bf2;
-   padding: 20px;
-   width: 150px;
-   margin:20px;
-   display: block;
+.blu {
+  background-color: #496bf2;
+  padding: 20px;
+  width: 150px;
+  margin: 20px;
+  display: block;
+}
+.words {
+}
+.pa {
+  text-align: center;
+  font-size: medium;
+}
+.apps {
+  padding: 20px;
+  margin: 30px;
+}
+
+/* Footer styles */
+
+footer{
+  margin-top: 30px;
+}
+
+.footer-element{
+  float: left;
+  width: 25%;
+  line-height: 2;
+}
+.ap{
+  color:aquamarine;
+}
+.pa{
+  color:#496bf2;
 }
