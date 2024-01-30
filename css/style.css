@@ -44,10 +44,11 @@ h1 {
 }
 .button4 {
   background-color: blue;
+float: right;
 }
 .button3 {
   background-color: aqua;
-  float:right;
+
 }
 .Book {
   padding: 10px;
