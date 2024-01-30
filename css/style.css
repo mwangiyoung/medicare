@@ -47,6 +47,7 @@ h1 {
 }
 .button3 {
   background-color: aqua;
+  float:right;
 }
 .Book {
   padding: 10px;
@@ -66,7 +67,7 @@ h1 {
 }
 .bravoo {
   float: left;
-  width: 50%;
+  width: 40%;
   background: url("../images/medical-clinic.jpg") no-repeat center center/cover;
   height: 500px;
 }
@@ -93,6 +94,7 @@ h1 {
 .K3 {
   color: #496bf2 text-align center;
   margin: 20px;
+  text-align: center;
 }
 .chrome {
   text-align: center;
@@ -179,6 +181,7 @@ footer{
 }
 .pa{
   color:#496bf2;
+  text-align: center;
 }
 .pd{
   font-size: x-large;
