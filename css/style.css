@@ -9,7 +9,9 @@ ul {
 }
 .doc {
   list-style-type: none;
-  float: right;https://github.com/mwangiyoung/medicare.git
+  float: right;
+  https: //github.com/mwangiyoung/medicare.git
+;
 }
 .l1 {
   color: rgb(0, 225, 255);
@@ -30,7 +32,7 @@ nav ul li {
 h1 {
   color: rgb(22, 117, 196);
 }
-.r2{
+.r2 {
   margin-top: 40px;
 }
 .homepage {
@@ -49,7 +51,6 @@ h1 {
 }
 .button3 {
   background-color: aqua;
-
 }
 .Book {
   padding: 10px;
@@ -64,14 +65,14 @@ h1 {
 .p1 {
   color: rgb(0, 102, 255);
 }
-.red{
+.red {
   margin-bottom: 3%;
-  font-size:xx-large ;
+  font-size: xx-large;
 }
 .bt {
   float: left;
 }
-.bravoo{
+.bravoo {
   float: left;
   width: 48%;
   background: url("../images/medical-clinic.jpg") no-repeat center center/cover;
@@ -98,13 +99,13 @@ h1 {
   clear: both;
 }
 .K3 {
-  color: #496bf2 ;
-  float:right;
+  color: #496bf2;
+  float: right;
   margin-top: 40px;
 }
 .chrome {
   text-align: center;
-  font-size:larger;
+  font-size: larger;
   margin: 0 auto;
   margin-bottom: 3%;
 }
@@ -114,7 +115,6 @@ h1 {
 }
 .g4 {
   float: left;
-
 }
 .testimonial-circles {
   height: 20px;
@@ -146,24 +146,21 @@ h1 {
   width: 50%;
   margin: 0 auto;
   font-size: large;
-  
-  
 }
 .u {
   color: #496bf2;
-
 }
-.vom{
-margin-top: 3%;
-font-size:xx-large;
-margin-bottom: 2%;
+.vom {
+  margin-top: 3%;
+  font-size: xx-large;
+  margin-bottom: 2%;
 }
-.quotes1{
+.quotes1 {
   margin-bottom: 20px;
   text-align: left;
 }
-.quotes{
-  margin-top:20px;
+.quotes {
+  margin-top: 20px;
   text-align: right;
 }
 .contact {
@@ -185,7 +182,7 @@ margin-bottom: 2%;
   display: block;
 }
 
-.app{
+.app {
   margin-inline-start: 20px;
 }
 
@@ -203,25 +200,24 @@ footer {
 .ap {
   color: aquamarine;
 }
-.facebook{
-margin:0 10%;
+.facebook {
+  margin: 0 10%;
 }
 .pa {
   color: #496bf2;
   text-align: center;
 }
-.pd{
+.pd {
   font-size: x-large;
 }
 .promotion1 {
   width: 30%;
   padding: 1%;
-
 }
-.promotion2{
-  margin:0 ;
+.promotion2 {
+  margin: 0;
 }
-.pa{
+.pa {
   margin-top: 60px;
   margin-bottom: 40px;
 }
